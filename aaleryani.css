@@ -1,0 +1,19 @@
+header h1{
+    font-size: 60px;
+    background-color: cornflowerblue;
+    font-weight: bold;
+    font-family: Geneva;
+    height: 110px;
+    width: 100%;
+    text-align: center;
+    
+}
+header h2 {
+    display:inline-block !important;
+    margin: 20px 25px;
+    background-color: beige;  
+}
+body {
+    position: relative;
+    top: 50px;
+}
